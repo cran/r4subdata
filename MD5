@@ -1,11 +1,12 @@
-6a7d710ac84cdaf3f2b3b2fa9eec5f82 *DESCRIPTION
+d4d38a46d0286fc4d4d8a4e7cdbf4d8d *DESCRIPTION
 f187ed34be813ee9eec57883818c8d6d *LICENSE
 34d53d2861a6d67c4d862d2b5767b746 *NAMESPACE
+1936340d46b898830e941d019ae8034e *NEWS.md
 ef26f78191d3093ed6bccf1f7fae2448 *R/data.R
 398335722172942dd44147558fbd2108 *R/dataset_dictionary.R
 ef34df9fb55854bd4d86a179a90b074c *R/list_datasets.R
 02f96b408a75410f54dedc454548a9b2 *R/r4subdata-package.R
-28594c31629039958543b346d1f6635a *README.md
+b91b91ce06d4dc329a29ceeef7866581 *README.md
 c2361eb75ca9c49cd2d168c028ee2f3a *data/adam_metadata.rda
 265d4fa8f1f425a1a4572c2e03f0d656 *data/evidence_pharma.rda
 de594cfd34912dbe92e2087229a39771 *data/regulatory_indicators.rda
@@ -25,7 +26,7 @@ a0811a25bcd38d328665d1ede8f9e6f4 *man/trace_mapping.Rd
 cb89d3c68b0f17e62ed32c395e3dba02 *tests/testthat.R
 d44f36b2e5177b81b070b98cacdf4905 *tests/testthat/test-adam_metadata.R
 69202a3b3959984d9dc01530f768fb1b *tests/testthat/test-dataset_dictionary.R
-876c9a234e955e66ac8898e8d8b96842 *tests/testthat/test-evidence_pharma.R
+e403585113eb9a0fd3f1b09f02355266 *tests/testthat/test-evidence_pharma.R
 ac54dba9c9e95c2a9dc6328e548768ca *tests/testthat/test-list_datasets.R
 77d55471597ab76c1ef82ca93123eeed *tests/testthat/test-regulatory_indicators.R
 7d9d5a7f49d02530938e35d78da60bd0 *tests/testthat/test-risk_register_pharma.R

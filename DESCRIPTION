@@ -1,6 +1,6 @@
 Package: r4subdata
 Title: Example Datasets for Clinical Submission Readiness
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Pawan Rama", "Mali", email = "prm@outlook.in",
            role = c("aut", "cre", "cph"))
@@ -24,8 +24,8 @@ Encoding: UTF-8
 RoxygenNote: 7.3.3
 LazyData: true
 NeedsCompilation: no
-Packaged: 2026-02-18 17:44:18 UTC; aeroe
+Packaged: 2026-02-26 10:28:17 UTC; aeroe
 Author: Pawan Rama Mali [aut, cre, cph]
 Maintainer: Pawan Rama Mali <prm@outlook.in>
 Repository: CRAN
-Date/Publication: 2026-02-20 11:40:02 UTC
+Date/Publication: 2026-02-26 13:20:02 UTC
